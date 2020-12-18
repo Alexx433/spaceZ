@@ -1,0 +1,37 @@
+.advantages {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 86px 0;
+    background-color: #131313;
+}
+
+.content {
+    background: white;
+    color: black;
+}
+
+.li1{
+    margin-right: 80px;
+    width: 180px;
+
+}
+
+.rc1 div{
+    margin-right: auto;
+}
+
+
+.lc1 div{
+    display: flex;
+    align-items: center;
+
+}
+
+.ul1{
+    display: flex;
+}
+
+.ul2{
+    margin-top: 40px;
+    color:#888888;
+}
